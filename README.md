@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the website of Ash Ketchum II
 
-[Link]{http://ashs.spreadshirt.com/)
+[Link](http://ashs.spreadshirt.com/)
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
